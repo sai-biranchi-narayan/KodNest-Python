@@ -81,4 +81,17 @@ print(t1 * 2)
 
 del t
 
+stu_info = ["Ram", 23]
+stu = stu_info
+print(stu)
+print(stu_info)
+
+x = [1, 2, 3]
+y = [1, 2, 3]
+print(x, y)
+print(x == y)
+
+
+
+
 
